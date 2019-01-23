@@ -54,7 +54,9 @@ a b.light-color:hover{ text-decoration: none; color: #E45F74; }
 
 b{ font-weight: 500; }
 
-img{ width: 100%; }
+img {
+  border-radius: 50%;
+}
 
 li{ list-style: none; display: inline-block; }
 
